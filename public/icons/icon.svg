@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="SIPIKET">
+  <rect width="512" height="512" rx="96" fill="#0b1f3a"/>
+  <circle cx="400" cy="112" r="22" fill="#22c55e"/>
+  <path d="M328 154H206c-48 0-78 25-78 62 0 35 24 53 70 61l48 8c25 4 33 10 33 21 0 13-12 20-34 20h-92v62h104c52 0 84-27 84-67 0-36-24-55-72-63l-48-8c-23-4-31-9-31-19 0-11 11-17 31-17h107z" fill="#fff"/>
+</svg>

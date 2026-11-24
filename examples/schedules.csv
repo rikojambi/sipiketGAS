@@ -1,0 +1,4 @@
+day,classId,subjectId,teacherId,startMinutes,endMinutes,room
+MON,class-xii-1,subject-1,teacher-1,420,480,Ruang 12A
+MON,class-xii-1,subject-2,teacher-2,480,540,Ruang 12A
+MON,class-xii-2,subject-1,teacher-1,420,480,Ruang 12B

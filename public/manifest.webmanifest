@@ -1,0 +1,24 @@
+{
+  "id": "/",
+  "name": "SIPIKET - Sistem Informasi Piket Guru",
+  "short_name": "SIPIKET",
+  "description": "Monitoring kehadiran siswa, izin, keterlambatan, dan piket guru.",
+  "lang": "id",
+  "start_url": "/?source=pwa",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f4f7fb",
+  "theme_color": "#0b1f3a",
+  "categories": ["education", "productivity"],
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Scan Apel Pagi", "short_name": "Scan Pagi", "url": "/#/scan/MORNING", "icons": [{ "src": "/icons/icon-192.png", "sizes": "192x192" }] },
+    { "name": "Scan Apel Siang", "short_name": "Scan Siang", "url": "/#/scan/AFTERNOON", "icons": [{ "src": "/icons/icon-192.png", "sizes": "192x192" }] },
+    { "name": "Monitoring Kelas", "short_name": "Kelas", "url": "/#/monitoring", "icons": [{ "src": "/icons/icon-192.png", "sizes": "192x192" }] }
+  ]
+}
